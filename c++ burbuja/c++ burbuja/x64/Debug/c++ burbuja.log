@@ -1,0 +1,4 @@
+﻿  c++ burbuja.cpp
+E:\tarea\tereahub\c++\c++ burbuja\c++ burbuja\c++ burbuja.cpp(8,11): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+E:\tarea\tereahub\c++\c++ burbuja\c++ burbuja\c++ burbuja.cpp(19,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  c++ burbuja.vcxproj -> E:\tarea\tereahub\c++\c++ burbuja\x64\Debug\c++ burbuja.exe
